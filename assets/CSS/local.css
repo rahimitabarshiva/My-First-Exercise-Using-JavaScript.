@@ -1,0 +1,48 @@
+@media screen and (min-width:768px){
+    body{
+        background-color: lightgreen;
+        >h1{
+            font-size: 50px;
+            color: green;
+        }
+        >h2{
+            font-size: 30px;
+        }
+        >h3{
+            font-size: 30px;
+            color: white;
+        }
+    }
+}
+@media screen and (min-width:992px){
+    body{
+        background-color: lightblue;
+        >h1{
+            font-size: 100px;
+            color: white;
+        }
+        >h2{
+            font-size: 50px;
+        }
+        >h3{
+            font-size: 40px;
+            color: navy;
+        }
+    }
+}
+@media screen and (min-width:1200px){
+    body{
+        background-color: rgb(69, 69, 150);
+        >h1{
+            font-size: 150px;
+            color: navy;
+        }
+        >h2{
+            font-size: 100px;
+        }
+        >h3{
+            font-size: 60px;
+            color: turquoise;
+        }
+    }
+}
