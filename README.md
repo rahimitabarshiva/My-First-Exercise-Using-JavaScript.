@@ -1,7 +1,7 @@
 # My-First-Exercise-Using-JavaScript.
 I've just started learning JavaScript 😍😍😍
 
-- [Demo Project]()
+- [Demo Project](https://rahimitabarshiva.github.io/My-First-Exercise-Using-JavaScript./)
 
 - Developed by Shiva Rahimitabar
 
