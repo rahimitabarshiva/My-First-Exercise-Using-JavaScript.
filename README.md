@@ -5,7 +5,7 @@ I've just started learning JavaScript 😍😍😍
 
 - Developed by Shiva Rahimitabar
 
-- Created - 2024-10-26
+- Created - 2024-12-24
 
 - Technologies Used - Html , css , js 
 
