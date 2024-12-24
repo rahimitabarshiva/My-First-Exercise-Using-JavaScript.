@@ -10,7 +10,6 @@ I've just started learning JavaScript 😍😍😍
 
 - Technologies Used - Html , css , js 
 
-- Hooks Used : useState 
 
 - Role - Frontend
 
